@@ -1,0 +1,27 @@
+mat-label{
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
+
+input{
+    min-height: 50px;
+    border: 1px solid gray ;
+    margin-bottom: 10px;
+}
+
+textarea{
+    border: 1px solid gray ;
+    margin-bottom: 10px;
+}
+
+.vocaedit{
+
+    width: 90%;
+    text-align: center;
+}
+
+mat-radio-button{
+    padding: 10px;
+}

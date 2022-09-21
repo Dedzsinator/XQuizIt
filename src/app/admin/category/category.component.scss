@@ -1,0 +1,32 @@
+:host {
+  text-align: center;
+  margin: 0 auto;
+
+}
+.form-field {
+    width: 90%;
+    margin-left: 20px;
+    
+  }
+
+label{
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
+
+input{
+    min-height: 50px;
+    border: 1px solid gray ;
+}
+
+.mat-form-field {
+    margin-right: 4px;
+  }
+
+  section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
