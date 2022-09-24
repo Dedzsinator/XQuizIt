@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxquizit=self.webpackChunkxquizit||[]).push([[867],{2867:(s,n,u)=>{u.r(n),u.d(n,{NotFoundModule:()=>l});var d=u(9808),t=u(5e3);let l=(()=>{class o{}return o.\u0275fac=function(e){return new(e||o)},o.\u0275mod=t.oAB({type:o}),o.\u0275inj=t.cJS({imports:[d.ez]}),o})()}}]);
